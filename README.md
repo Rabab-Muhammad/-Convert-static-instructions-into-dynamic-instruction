@@ -63,6 +63,13 @@ We have a total of 150 rooms, but 10 are reserved for special guests.
 
 ## 🔑 Key Features
 ✅ Dynamic agent creation for multiple hotels
+
+
 ✅ Guardrails for query validation
+
+
 ✅ Gemini integration with OpenAI Agents SDK
+
+
 ✅ Clear modular structure
+
