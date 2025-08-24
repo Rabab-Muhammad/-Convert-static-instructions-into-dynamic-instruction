@@ -24,7 +24,6 @@ project/
 │   ├── gemini_config.py     # Gemini API client + model configuration
 │
 │── main.py                  # Entry point (run queries)
-│── README.md                # Project documentation
 ```
 
 ## 🏨 Hotel Data Example
@@ -69,5 +68,6 @@ We have a total of 150 rooms, but 10 are reserved for special guests.
 ✅ Gemini integration with OpenAI Agents SDK
 
 ✅ Clear modular structure
+
 
 
